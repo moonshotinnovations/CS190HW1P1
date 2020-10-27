@@ -1,5 +1,6 @@
 def main():
 	print("hello World")
+	print("hello Universe")
 
 
 if __name__ == "__main__":
